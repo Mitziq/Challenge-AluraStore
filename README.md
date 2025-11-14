@@ -34,4 +34,8 @@ En el proyecto encontrarás:
 
 ## Instrucciones para ejecutar el notebook.
 
-## Realizado por:
+Ingresa al siguiente link: https://github.com/Mitziq/Challenge-AluraStore.git
+
+## :sparkles: Realizado por:
+
+Mitzi Quezada :paw_prints:
